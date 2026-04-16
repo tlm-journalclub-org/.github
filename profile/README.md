@@ -8,6 +8,7 @@ Each session pairs an invited talk with a hands-on coding lab. Lab repositories 
 
 | Lab | Topic |
 |-----|-------|
+| [Optimization](https://github.com/tlm-journalclub-org/Optimization) | Basics of optimization |
 | [LLMlego](https://github.com/tlm-journalclub-org/LLMlego) | Word embeddings and the geometry of language |
 
 ## Links
