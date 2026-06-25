@@ -11,6 +11,7 @@ Each session pairs an invited talk with a hands-on coding lab. Lab repositories 
 | [Optimization](https://github.com/tlm-journalclub-org/Optimization)              | Basics of optimization                       |
 | [LLMlego](https://github.com/tlm-journalclub-org/LLMlego)                        | Word embeddings and the geometry of language |
 | [Multimodal Learning](https://github.com/tlm-journalclub-org/MultimodalLearning) | Multimodal learning                          |
+| [Diffusion Models](https://github.com/tlm-journalclub-org/diffusion-models-tlm) | Diffusion models, from DDPM to Stable Diffusion |
 
 ## Links
 
